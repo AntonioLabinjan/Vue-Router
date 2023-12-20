@@ -1,5 +1,6 @@
 # router-example
 
+A simple example of VUE Router (I shall use it for future reference)
 ## Project setup
 ```
 npm install
